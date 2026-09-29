@@ -20,9 +20,6 @@ public class Client {
 			 System.out.println("Das Ergebnis der Berechnung: " +
 					"[das Ergebnis an dieser Stelle]"  );
 
-
-
-
 		 }
 }
 
