@@ -6,14 +6,12 @@ package org.hbrs.se1.ws26.exercises.uebung1.control;
  * unter Umstaenden angepasst werden.
  *
  * @author saschaalda
- *
  */
 
 interface Translator {
-	
 	double version = 1.0; // Version des Interface
 	
-	/*
+	/**
 	 * Uebersetzt eine numerische Zahl in eine String-basierte
 	 * Repraesentation gemaess der Spezifikation in der Aufgabe 1-2 
 	 */
