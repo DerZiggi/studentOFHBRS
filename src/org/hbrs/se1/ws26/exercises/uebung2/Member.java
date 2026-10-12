@@ -10,4 +10,7 @@ public interface Member {
      */
     
     public Integer getID();
+
+    @Override
+    public String toString();
 }
