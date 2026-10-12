@@ -4,7 +4,7 @@ public class ConcreteMember implements Member{
 
     private static int nextid = 101;
 
-    private int id;
+    private final int id;
 
     public ConcreteMember(){
         this.id = nextid;

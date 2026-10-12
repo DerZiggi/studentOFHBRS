@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Container {
 
-    private List<Member> members = new ArrayList<>();
+    private final List<Member> members = new ArrayList<>();
 
     public Container(){
     }
